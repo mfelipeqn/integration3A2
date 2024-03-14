@@ -1,4 +1,6 @@
 <?php
 
-echo 'Felipe, Ma. Eloisa B.'
+echo 'Felipe, Ma. Eloisa'
+
+echo 'BSICT 3A2'
 ?>
